@@ -13,6 +13,7 @@ Payment Mode
 Gender
 
 Key Visualizations
+
 3. KPI Cards (Top Section)
 Total Sales: Sum of Sale Price
 Total Profit: Sum of Profit
